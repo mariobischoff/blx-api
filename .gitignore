@@ -1,0 +1,4 @@
+__pycache__
+.vscode
+blx_database.db
+.pytest_cache
